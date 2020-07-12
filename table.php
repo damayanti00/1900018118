@@ -17,7 +17,7 @@
     <title>Document</title>
 </head>
 <body>
-    <table>
+    <table border="1" cellspacing="0" cellpadding="5">
         <tr>
             <td>Nama</td>
             <td>Nim</td>
